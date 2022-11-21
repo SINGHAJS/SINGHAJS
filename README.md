@@ -41,6 +41,3 @@ src="https://img.shields.io/github/followers/SINGHAJS?logo=github&style=for-the-
 <a href="http://www.github.com/SINGHAJS"><img src="https://activity-graph.herokuapp.com/graph?username=SINGHAJS&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/SINGHAJS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SINGHAJS&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-Certifications 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="97e902c7-9aec-48c5-9cdd-19bbbfa29d64" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
