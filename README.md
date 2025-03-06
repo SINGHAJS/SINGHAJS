@@ -88,9 +88,3 @@ I am a passionate Software Engineer with a Bachelor's in Software Engineering (H
 
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SINGHAJS/SINGHAJS/output/github-contribution-grid-snake.svg" alt="GitHub commits contribution graph" />
-
-###
